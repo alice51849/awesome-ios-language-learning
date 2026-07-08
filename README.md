@@ -54,3 +54,12 @@ Suggestions welcome. Add an app under the right category with a one-line, factua
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related rights to this work.
+
+## Related lists
+
+- [Awesome iOS Pay-Once Apps](https://github.com/alice51849/awesome-ios-pay-once)
+- [Awesome iOS Privacy-First Apps](https://github.com/alice51849/awesome-ios-privacy-first)
+- [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
+- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
+- [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
+
