@@ -53,6 +53,8 @@ Suggestions welcome. Add an app under the right category with a one-line, factua
 
 Part of a family of curated, pay-once / privacy-first iOS app lists:
 
+- [Awesome Zhuyin (Bopomofo) Apps — for Taiwanese parents (Chinese)](https://github.com/alice51849/awesome-zhuyin-bopomofo-apps)
+- [Awesome TOEIC Pay-Once Apps (Japanese)](https://github.com/alice51849/awesome-toeic-pay-once-apps)
 - [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
 - [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
 - [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
@@ -62,6 +64,7 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 - [Awesome iOS Health & Wellness](https://github.com/alice51849/awesome-ios-health-wellness)
 - [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
 - [Awesome iOS Productivity](https://github.com/alice51849/awesome-ios-productivity)
+- [Open Reference Datasets — machine-readable CC BY 4.0 (Mandarin/Bopomofo phonetics, imaging, everyday)](https://github.com/alice51849/open-reference-datasets)
 
 For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
 
