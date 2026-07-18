@@ -4,6 +4,8 @@ A curated list of iPhone and iPad apps for learning languages — from **Zhuyin/
 
 > Many families and self-learners want tools without subscriptions or ads — especially for children. Where an app is a one-time purchase or ad-free, it's noted.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Chinese & Bopomofo (Zhuyin)](#chinese--bopomofo-zhuyin)
@@ -38,12 +40,14 @@ A curated list of iPhone and iPad apps for learning languages — from **Zhuyin/
 - [Duolingo](https://apps.apple.com/app/id570060128) - Popular free gamified language courses.
 - [Anki (AnkiMobile)](https://apps.apple.com/app/id373493387) - Spaced-repetition flashcards; one-time purchase on iOS.
 - [Drops](https://apps.apple.com/app/id939542902) - Visual vocabulary practice across many languages.
+- [Wordmate](https://apps.apple.com/app/id6789917808) - Pay-once vocabulary practice across 44 languages with examples, a Home Screen widget, and Apple Watch support; no account, tracking, ads, or subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmate.html)
+- [DailyMate](https://apps.apple.com/app/id6790418321) - Pay-once practice for 8,400 useful phrases across 47 languages on iPhone, iPad, widgets, and Apple Watch. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymate.html)
 
 ## Notes
 
 - "Ad-free" and "no data collected" apply to the children's apps noted; always confirm current details on the App Store.
 - TOEIC is a trademark of ETS; test-prep apps listed here are independent and do not guarantee any score.
-- In-depth guides link to an independent buying-guide site with feature breakdowns.
+- In-depth guides are publisher-authored first-party resources from Lumi Studio, the developer of the Lumi Studio apps listed here.
 
 ## Contributing
 
@@ -67,10 +71,10 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 - [Open Reference Datasets — machine-readable CC BY 4.0 (Mandarin/Bopomofo phonetics, imaging, everyday)](https://github.com/alice51849/open-reference-datasets)
 
 For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+You can also filter the complete live portfolio in the **[publisher-verified 28-app finder](https://alice51849.github.io/ios-app-guide/tools/private-pay-once-iphone-app-finder.html)**.
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related rights to this work.
-
