@@ -72,6 +72,7 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 
 For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
 You can also filter the complete live portfolio in the **[publisher-verified 28-app finder](https://alice51849.github.io/ios-app-guide/tools/private-pay-once-iphone-app-finder.html)**.
+For problem-first app decisions, browse the **[source-bound decision guides](https://alice51849.github.io/ios-app-guide/en-US/browse.html)** or subscribe to their **[JSON Feed 1.1](https://alice51849.github.io/ios-app-guide/data/high-intent-decision-routes/feed.json)**.
 
 ## License
 
