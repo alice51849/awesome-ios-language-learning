@@ -34,6 +34,7 @@ A curated list of iPhone and iPad apps for learning languages — from **Zhuyin/
 
 - [Magoosh](https://apps.apple.com/app/id6443843960) - Test-prep lessons and practice for standardized exams.
 - [Aim990](https://apps.apple.com/app/id6784974530) - A 30-day TOEIC L&R-style study plan with a weakness engine; works offline. Independent study app, not affiliated with or endorsed by ETS; no score guaranteed. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aim990.html)
+- [Aim990 Plus](https://apps.apple.com/app/id6792483140) - Lumi Studio paid trainer for timed, exam-style decision practice. Independent study app, not affiliated with ETS, and no score is guaranteed. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aim990plus.html)
 
 ## General Language Learning
 
@@ -42,6 +43,8 @@ A curated list of iPhone and iPad apps for learning languages — from **Zhuyin/
 - [Drops](https://apps.apple.com/app/id939542902) - Visual vocabulary practice across many languages.
 - [Wordmate](https://apps.apple.com/app/id6789917808) - Pay-once vocabulary practice across 44 languages with examples, a Home Screen widget, and Apple Watch support; no account, tracking, ads, or subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmate.html)
 - [DailyMate](https://apps.apple.com/app/id6790418321) - Pay-once practice for 8,400 useful phrases across 47 languages on iPhone, iPad, widgets, and Apple Watch. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymate.html)
+- [Wordmate Lite](https://apps.apple.com/app/id6797601720) - Lumi Studio vocabulary app for five words a day in about a minute, without building decks; free to start. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmatelite.html)
+- [DailyMate Lite](https://apps.apple.com/app/id6794725568) - Lumi Studio situational phrasebook with speaking practice across 50 languages; free to start with an optional one-time unlock. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymatelite.html)
 
 ## Notes
 
